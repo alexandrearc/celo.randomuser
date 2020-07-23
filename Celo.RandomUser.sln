@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celo.RandomUser", "Celo.RandomUser.Api\Celo.RandomUser.csproj", "{0292F96D-E392-4F33-BC10-4A9875AA5F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celo.RandomUser.Test", "Celo.RandomUser.Test\Celo.RandomUser.Test.csproj", "{D32C4D94-20A7-46DA-8EC7-E09100E26203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0292F96D-E392-4F33-BC10-4A9875AA5F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0292F96D-E392-4F33-BC10-4A9875AA5F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0292F96D-E392-4F33-BC10-4A9875AA5F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0292F96D-E392-4F33-BC10-4A9875AA5F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32C4D94-20A7-46DA-8EC7-E09100E26203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32C4D94-20A7-46DA-8EC7-E09100E26203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32C4D94-20A7-46DA-8EC7-E09100E26203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32C4D94-20A7-46DA-8EC7-E09100E26203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
